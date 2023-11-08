@@ -33,13 +33,13 @@ console.log("I am logging");
 
 context.font = "100px solid";
 context.fillStyle = "gray"
-context.fillRect(1100, 400, 700, 100)
-context.fillRect(1275, 290, 360, 100) 
+context.fillRect(375, 400, 700, 100)
+context.fillRect(550, 290, 360, 100) 
 context.fillStyle = "black"
-context.fillText("Date:", 1325, 375);
+context.fillText("Date:", 600, 375);
 
 
 context.fillStyle = "blue"
 context.fillRect(0, 0,2900, 100)
 context.fillStyle = "black"
-context.fillText("CaptainRuah's Website", 900, 85);
+context.fillText("CaptainRuah's Website", 175, 85);
