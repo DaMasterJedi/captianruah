@@ -1,0 +1,13 @@
+.topbar {
+    border: 1px solid black;
+    background: rgb(255, 0, 0);
+    }
+body{
+    margin: 0;
+}
+.CountDown{
+    position: absolute;
+    font: 100px solid;
+    top: 290px;
+    left: 1135px;
+}
